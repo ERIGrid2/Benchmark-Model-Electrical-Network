@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5675105.svg)](https://doi.org/10.5281/zenodo.5675105)
 
 # Benchmark Model Electrical Network
-This repository contains the documentation for the electrical network benchmark model developed in the Erigrid 2.0 project. 
+This repository contains the documentation for the electrical network benchmark model developed in the ERIGrid 2.0 project. 
 
 The folder "Matlab Implementation Files" includes the Matlab/Simulink implementation of the two versions (dynamic and phasor) of the model. 
 The document "ListofFiles.pdf" provides a short description of each modelling file.
