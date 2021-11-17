@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5675105.svg)](https://doi.org/10.5281/zenodo.5675105)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5707769.svg)](https://doi.org/10.5281/zenodo.5707769)
 
 # Benchmark Model Electrical Network
 This repository contains the documentation for the electrical network benchmark model developed in the ERIGrid 2.0 project. 
